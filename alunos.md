@@ -5,5 +5,5 @@
 - Guilherme:
 - Leonardo:
 - Lorenzo:
-- João Vitor
-- Marcelo
+- João Vitor:
+- Marcelo:
