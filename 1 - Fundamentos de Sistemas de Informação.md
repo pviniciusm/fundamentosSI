@@ -1,13 +1,13 @@
-Fundamentos de Sistemas de Informação
-    - Sistema  
+# Fundamentos de Sistemas de Informação
+    ## Sistema  
         - o que é: conjunto de partes interconectadas (sinergia) 
         - o que o compõe: aspectos estruturais (físicas) e funcionais (comportamento)
         - para que serve: resolver/solucionar/operar sobre uma área ou um problema
 
-    - Sistema Informatizado ou Computacional, o que muda:
+    ## Sistema Informatizado ou Computacional, o que muda:
         - executa ou opera ou funciona sobre equipamentos ou dispositivos eletrônicos
 
-    - Curso de Sistemas de Informação
+    ## Curso de Sistemas de Informação
         - Metas principais:
             - Projetar, Desenvolver, Testar e Implantar solução ou soluções via Sistemas
               Computadorizados.
@@ -32,7 +32,7 @@ Fundamentos de Sistemas de Informação
                                                 tomada de decisão
                                                     -> RECONHECIMENTO DE PADRÕES
 
-    DIFERENÇAS ENTRE SISTEMAS INFORMATIZADOS
+    ## DIFERENÇAS ENTRE SISTEMAS INFORMATIZADOS
         - Sistema de Informação
             - Gerencial
             - Executivo
@@ -47,7 +47,7 @@ Fundamentos de Sistemas de Informação
                             
 
 
-EXERCICIO
+# EXERCICIO
   - A plataforma STEAM
     1) o que faz o sistema?
       Sistema desktop ou Web (cliente-servidor) que gerencia a compra-venda (desktop e Web) 
@@ -62,7 +62,7 @@ EXERCICIO
 
 
 
-CURIOSIDADE DA COMPUTAÇÃO:
+# CURIOSIDADE DA COMPUTAÇÃO:
   - Todo o sistema que é gratuíto, o produto é o cliente.
 
 
