@@ -1,12 +1,11 @@
 # Relação de alunos da disciplina e seus repositórios Git
 - André: https://github.com/Iajor/fundamentosSI
 - Bernardo: https://github.com/b3rnard0p/Fundamentos-SI.git
-- Gabriel:
 - Guilherme: https://github.com/GuiiizeeraSouza/FundamentosSI
 - Leonardo: https://github.com/leonardoMelloCunha/fundamentos-de-sistemas-de-informa-o
 - Lorenzo: https://github.com/LorenzoUFN/aula-sistemas
 - João Pedro: https://github.com/pedrinho0147258369/Fundamentos-de-Sistemas-de-Informa-o/
-- João Vitor: https://github.com/joaovritter/fundamentosSI
+- João Vitor: https://github.com/joaovritter/
 - Marcelo: https://github.com/marcelomoro1/AulaFundamentos
 - Matheus:
 - Vinicios: https://github.com/alexandrezamberlan/fundamentosSI/pull/2
