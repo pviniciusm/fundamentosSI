@@ -1,7 +1,8 @@
 # Tarefas
-    1) Atividade:
+
+    1) Atividade: asddasdasdds asdasdasd
         - Entrega: dia 14/03 às 18h
-        - Forma de entrega: 
+        - Forma de entrega:
             - email para alexz@ufn.edu.br
             - assunto: trabalho de fundamentos de Sistemas de Informação
             - conteúdo: link do repositório pessoal (github) da atividade
@@ -14,5 +15,5 @@
 
             b) a partir da pesquisa, construir:
                 - opção a) um mapa mental do que foi lido
-                
+
                 - opção b) incremetar o glossário
